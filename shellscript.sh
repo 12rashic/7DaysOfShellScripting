@@ -7,8 +7,10 @@ Var='Hello August ☂'
 
 echo " $Var"
 
+#This is demonstration of Built-in-variables in bash 
 echo " This is $PWD "
 echo " This is $HOME"
 echo " This is $PPID"
 
-ls -l  #
+#The below command lists all files in Directory
+ls -l  

@@ -8,8 +8,8 @@ Var='Hello August ☂'
 echo " $Var"
 
 #This is demonstration of Built-in-variables in bash 
-echo " This is $PWD "
-echo " This is $HOME"
+echo " This is present working directory :$PWD "
+echo " This is Home $HOME"
 echo " This is $PPID"
 
 #The below command lists all files in Directory
